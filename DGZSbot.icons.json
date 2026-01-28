@@ -1,9 +1,9 @@
 {
-  "name": "Sakura图标订阅",
+  "name": "DGZS图标订阅",
   "description": "收集一些自己能用到的图标",
   "icons": [
     {
-      "name": "ppmt.png",
+      "name": "cpp.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/main/icon/cpp.png"
     }
   ]
