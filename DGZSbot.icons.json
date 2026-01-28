@@ -1,10 +1,2 @@
-{
-  "name": "DGZS图标订阅",
-  "description": "收集一些自己能用到的图标",
-  "icons": [
-    {
-      "name": "cpp.png",
-      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/main/icon/cpp.png"
-    }
-  ]
-}
+{"name":"DGZSbot","icons":
+[{"name":"cpp.png","url":"https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/cpp.png"}]}
