@@ -97,6 +97,10 @@
     {
       "name": "ytw.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/ytw.png"
+    },
+    {
+      "name": "tlyz.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/tlyz.png"
     }
   ]
 }
