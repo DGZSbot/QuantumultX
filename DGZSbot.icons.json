@@ -1,1 +1,10 @@
-
+{
+  "name": "DGZS图标订阅",
+  "description": "收集一些自己常用的图标.",
+  "icons": [
+    {
+      "name": "zto.png",
+      "url": "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/zto.png"
+    }
+  ]
+}
