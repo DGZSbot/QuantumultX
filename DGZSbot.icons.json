@@ -81,6 +81,10 @@
     {
       "name": "hsyhs.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/hsyhs.png"
+    },
+    {
+      "name": "ckys.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/ckys.png"
     }
   ]
 }
