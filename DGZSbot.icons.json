@@ -109,6 +109,14 @@
     {
       "name": "bzl.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/bzl.png"
+    },
+    {
+      "name": "mfd.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/mfd.png"
+    },
+    {
+      "name": "tmj.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/tmj.png"
     }
   ]
 }
