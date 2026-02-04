@@ -121,6 +121,10 @@
     {
       "name": "okx.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/okx.png"
+    },
+    {
+      "name": "sypm.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/sypm.png"
     }
   ]
 }
