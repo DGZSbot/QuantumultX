@@ -117,6 +117,10 @@
     {
       "name": "tmj.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/tmj.png"
+    },
+    {
+      "name": "okx.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/okx.png"
     }
   ]
 }
