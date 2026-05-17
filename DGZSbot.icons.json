@@ -161,6 +161,10 @@
     {
       "name": "gumande.png",
       "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/gumande.png"
+    },
+    {
+      "name": "bllj.png",
+      "url": "https://raw.githubusercontent.com/DGZSbot/QuantumultX/refs/heads/main/icon/bllj.png"
     }
   ]
 }
